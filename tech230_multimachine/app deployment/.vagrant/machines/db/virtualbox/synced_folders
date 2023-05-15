@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/environment":{"guestpath":"/home/vagrant/environment","hostpath":"C:/Users/marwa/tech230_git_test/tech230_multimachine/app deployment/environment","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/marwa/tech230_git_test/tech230_multimachine/app deployment","disabled":false,"__vagrantfile":true}}}
